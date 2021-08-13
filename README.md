@@ -5,5 +5,8 @@
 To perform inference with openvino, please proceed [here](https://github.com/Eashwar93/SemanticSegmentation-Deployments/tree/main/inferwithopenvino)
 
 ## TensorRT
-To perform inference with tensorrt, please proceed [here](https://sourcecode.socialcoding.bosch.com/projects/RCL/repos/rcl-3d-perception/browse/inferwithtrt?at=refs%2Fheads%2Fthesis%2Fdeployment_pipeline)
+To perform inference with tensorrt, please proceed [here](https://github.com/Eashwar93/SemanticSegmentation-Deployments/tree/main/inferwithtensorrt)
+
+## ROS2 Wrapper
+To use TensorRT and Openvino along with ROS2, please proceed [here](https://github.com/Eashwar93/SemanticSegmentation-Deployments/tree/main/ros2_wrapper)
 
